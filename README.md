@@ -1,25 +1,25 @@
 # Hotel-Management
 
-Działanie/Uruchomienie programu
+Operation/Startup of the program
 
-1. Ten plik zawiera informacje dotyczące tego jak uruchomić i obsługiwać wskazany program "HotelManagement".
+1. This file contains information on how to start and operate the indicated program "HotelManagement".
 
-2. Uruchom program i postępuj zgodnie z instrukcjami, które wyświetlą się w konsoli.
-Po uruchomieniu programu powinno pokazać się:
-Witam w systemie zarządzającym hotelem!
-Podaj komendę :)
-Dostępne komendy:
-lista - wyświetla wszystkie informacje o pokojach
-list - listuje wszystkie pokoje
-view - wyświetla informacje o pokoju
-checkin - dokonuje rejestracji gościa
-checkout - wymeldowuje gościa
-save - zapisuje stan do pliku CSV lub XLSX
-exit - wyjście z programu
-Podaj komendę: 
+2. start the program and follow the instructions that will appear in the console.
+After starting the program, it should show:
+Welcome to the hotel management system!
+Enter the command :)
+Available commands:
+list - displays all room information
+list - lists all rooms
+view - displays information about the room
+checkin - performs guest registration
+checkout - checks out the guest
+save - saves the status to CSV or XLSX file
+exit - exits the program
+Specify a command: 
 
-3. Podaj jedną z wymienionych komend i postępuj zgodnie z dalszymi instrukcjami, które pokażą się w konsoli.
+3. enter one of the listed commands and follow the further instructions that will show up in the console.
 
-4. Dostępne pokoje to: 101, 102, 103, 201, 202, 203, 301, 302, 303.
+4. the available rooms are: 101, 102, 103, 201, 202, 203, 301, 302, 303.
 
-5. Zakończenie działania programu: wypisz komendę "exit".
+5. terminate the program: write out the "exit" command.
